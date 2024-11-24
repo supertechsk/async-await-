@@ -10,7 +10,7 @@ async function a() {
     
 }
 a();
-console.log("Welcome promise")
+console.log("Mid promise");
 
 // another way 
 function asyncFunction(){
