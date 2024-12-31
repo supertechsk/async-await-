@@ -1,6 +1,6 @@
 const promise = new Promise((resolve , reject) => {
     resolve("promise resolved");
-    console.log("Successfully resolved");
+    console.log("Promise Successfully resolved");
 
 })
 
