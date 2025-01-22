@@ -15,7 +15,7 @@ console.log("Mid promise");
 // another way 
 function asyncFunction(){
     let p = new Promise((res , reject) => {
-       res("promise resolved ");
+       res("promise resolved successfully");
 
     })
     return p;
